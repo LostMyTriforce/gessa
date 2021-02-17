@@ -3,6 +3,8 @@ GeSSA (Goldeneye Speedrun Sidebar Assistant) is an OBS browser element that disp
 
 The project is closed source as of now.
 
+**You need the font "Agency FB" in order to use GeSSA properly.**
+
 # The terms for using GeSSA
 ### General
 GeSSA (The "Controller" and "Sidebar") will require access to your AppData folder and will ONLY USE ITS PERSONAL FOLDER to create, edit and delete your settings and level data files that the controller application uses. GeSSA will not alter any other files within your device.
