@@ -21,7 +21,7 @@ You will not tamper with, modify, add or remove any code that GeSSA or the sideb
 Zwonkous, the creator, will not give assistance to any tampered GeSSA application.
 
 ### Disclaimer
-GeSSA is coded by one person. Any and all compiled code will have been tested in simulated enviroments before being released for beta testing or for public release. GeSSA and any services introduced are given on an "As Is" and "As Available" basis without any express or implied warrenty or condition of any kind. You will use GeSSA at your own risk. Users acklowedge that GeSSA does not warrant that the service will be uninterrupted, timely, secure, error-free or virus-free.
+GeSSA is coded by one person. Any and all compiled code will have been tested in simulated enviroments before being released for beta testing or for public release. GeSSA and any services introduced are given on an "As Is" and "As Available" basis without any express or implied warrenty or condition of any kind. You will use GeSSA at your own risk. Users acknowledge that GeSSA does not warrant that the service will be uninterrupted, timely, secure, error-free or virus-free.
 
 Users are responsible for implementing up-to-date antivirus software to satisfy their particular requirements for the accuracy of data input, and output.
 
