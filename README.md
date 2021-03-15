@@ -3,4 +3,7 @@ GeSSA (Goldeneye Speedrun Sidebar Assistant) is an OBS browser element that disp
 
 The project is closed source as of now.
 
+Please read the terms before using this application:
+https://github.com/LostMyTriforce/gessa/wiki/The-terms-for-using-GeSSA
+
 **You need the font "Agency FB" in order to use GeSSA properly.**
